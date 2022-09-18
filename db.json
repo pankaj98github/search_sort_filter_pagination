@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "name": "Pankaj",
+      "email": "pk@gmail.com",
+      "phone": "7854694123",
+      "address": "India",
+      "Id": 1,
+      "status": "Active"
+    },
+    {
+      "name": "Ankit",
+      "email": "an@gmail.com",
+      "phone": "8965214565",
+      "address": "India",
+      "Id": 2,
+      "status": "Active"
+    },
+    {
+      "name": "Saurabh",
+      "email": "sp@gmail.com",
+      "phone": "8854459412",
+      "address": "India",
+      "Id": 3,
+      "status": "Inactive"
+    },
+    {
+      "name": "Kalpesh",
+      "email": "ks@gmail.com",
+      "phone": "8956124785",
+      "address": "Ireland",
+      "Id": 4,
+      "status": "Inactive"
+    },
+    {
+      "name": "Sid",
+      "email": "sd@gmail.com",
+      "phone": "6854474123",
+      "address": "UK",
+      "Id": 5,
+      "status": "Active"
+    },
+    {
+      "name": "Sakshi",
+      "email": "sl@gmail.com",
+      "phone": "9854645123",
+      "address": "Australia",
+      "Id": 6,
+      "status": "Active"
+    },
+    {
+      "name": "Pragati",
+      "email": "pv@gmail.com",
+      "phone": "6354645123",
+      "address": "USA",
+      "Id": 7,
+      "status": "Inactive"
+    },
+    {
+      "name": "Diksha",
+      "email": "dk@gmail.com",
+      "phone": "5478962314",
+      "address": "Singapore",
+      "Id": 8,
+      "status": "Inactive"
+    },
+    {
+      "name": "Mohit",
+      "email": "mm@gmail.com",
+      "phone": "5474562322",
+      "address": "Brazil",
+      "Id": 9,
+      "status": "Active"
+    },
+    {
+      "name": "Dipak",
+      "email": "dsg@gmail.com",
+      "phone": "8878964514",
+      "address": "India",
+      "Id": 10,
+      "status": "Active"
+    },
+    {
+      "name": "Neha",
+      "email": "ns@gmail.com",
+      "phone": "7878442314",
+      "address": "Canada",
+      "Id": 11,
+      "status": "Inactive"
+    },
+    {
+      "name": "Sahil",
+      "email": "sh@gmail.com",
+      "phone": "4569871235",
+      "address": "Hongkong",
+      "Id": 12,
+      "status": "Active"
+    },
+    {
+      "name": "Sanika",
+      "email": "sf@gmail.com",
+      "phone": "4123526541",
+      "address": "New Zealand",
+      "Id": 13,
+      "status": "Active"
+    },
+    {
+      "name": "Pranjal",
+      "email": "pj@gmail.com",
+      "phone": "6521478963",
+      "address": "UAE",
+      "Id": 14,
+      "status": "Inactive"
+    }
+  ]
+}
